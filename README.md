@@ -1,0 +1,1 @@
+# strapi-starter-project-resources
